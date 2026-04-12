@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class moveStackinSameOrder {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);//input
         Stack<Integer> st = new Stack<>();
         // int n;
         //System.out.println("Enter the number elements you want to enter ");
